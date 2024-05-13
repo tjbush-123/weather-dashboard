@@ -5,6 +5,7 @@ My motivation was to help people be prepared for the weather. I built this proje
 
 ## Deployment
 https://tjbush-123.github.io/weather-dashboard/ 
+
 ![project](image.png)
 
 ## Usage
